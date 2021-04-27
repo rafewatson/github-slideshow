@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+XRP is a scam Ps. im a big noob
 Use the left arrow to go back
-Ps. im a big noob
+
